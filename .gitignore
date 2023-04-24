@@ -1,0 +1,7 @@
+.apicache
+.openai
+
+config.py
+
+# don't add output
+out/

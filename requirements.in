@@ -1,2 +1,3 @@
 git+https://github.com/startupradar/transformers.git@develop#egg=startupradar_transformers
 click
+openai
