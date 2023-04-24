@@ -19,11 +19,15 @@ The formatted output looks like this:
 
 Install the dependencies into a virtual environment.
 
-> pip install -r requirements.txt
+```commandline
+pip install -r requirements.txt
+```
 
 Create a `config.py` file and add the credentials for startupradar and OpenAI:
+
 ```python
 STARTUPRADAR_API_KEY = "your-key-here"
+
 OPENAI_API_KEY = "your-key-here"
 OPENAI_ENGINE = "text-similarity-davinci-001"
 ```
