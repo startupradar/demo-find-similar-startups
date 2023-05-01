@@ -42,5 +42,5 @@ Make sure to set budgets upfront!
 Run with
 
 ```commandline
-python cli.py
+python cli.py run
 ```
