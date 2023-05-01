@@ -15,7 +15,10 @@ The formatted output looks like this:
 
 ![](.github/screenshot.png)
 
-## Installation
+and the provided sample can be found in a [public Google Sheet](https://docs.google.com/spreadsheets/d/1WGsrq6eUC3bdFoV7pMVgbqqbyaBtjxl2cr_dMV0TVHA/).
+
+
+## Installation and Usage
 
 Install the dependencies into a virtual environment.
 
@@ -35,3 +38,9 @@ OPENAI_ENGINE = "text-similarity-davinci-001"
 An API key for OpenAI can be created online.
 Please note that embedding a lot of startups can result in significant charges.
 Make sure to set budgets upfront!
+
+Run with
+
+```commandline
+python cli.py
+```
