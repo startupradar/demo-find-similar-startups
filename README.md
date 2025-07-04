@@ -44,3 +44,38 @@ Run with
 ```commandline
 python cli.py run
 ```
+
+## Competitor and Lookalikes API
+
+Looking for a ready-to-use solution? 
+Skip the setup and get instant results with our [Competitor and Lookalikes API](https://markets.apistemic.com).
+
+### Why use our API instead of building your own?
+This demo shows the technical approach, but running it yourself means:
+
+- Managing OpenAI API costs and rate limits
+- Maintaining startup data freshness
+- Handling embedding computation at scale
+- Building your own similarity algorithms
+
+Our API handles all of this for you with a simple REST endpoint.
+
+### What you get
+
+- Instant competitor detection - Submit any company domain or identifier
+- Fresh startup data - Always up-to-date company information
+- Pre-computed similarities - No waiting for embeddings or calculations
+- Multiple similarity types - Find direct competitors and lookalikes
+- Scalable pricing - Pay only for what you use
+
+Use cases
+
+- Market research - Quickly map competitive landscapes
+- Investment analysis - Find comparable companies for valuation
+- Sales prospecting - Identify similar companies as potential customers
+- Partnership discovery - Find complementary businesses
+- Competitive intelligence - Stay updated on similar companies
+
+### Get started
+Sign up at [markets.apistemic.com](https://markets.apistemic.com) 
+and start finding similar companies in seconds, not hours.
