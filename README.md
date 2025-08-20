@@ -68,7 +68,14 @@ Our API handles all of this for you with a simple REST endpoint.
 - Multiple similarity types - Find direct competitors and lookalikes
 - Scalable pricing - Pay only for what you use
 
-Use cases
+Examples:
+
+- [Uber](https://markets.apistemic.com/companies/uber-com-ojj2j)
+- [Crunchbase](https://markets.apistemic.com/companies/crunchbase-ay7e7)
+- [Lufthansa](https://markets.apistemic.com/companies/lufthansa-e93bz)
+- [OpenAI](https://markets.apistemic.com/companies/openai-je9z5)
+
+### Use cases
 
 - Market research - Quickly map competitive landscapes
 - Investment analysis - Find comparable companies for valuation
